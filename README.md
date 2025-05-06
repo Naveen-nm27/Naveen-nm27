@@ -8,11 +8,9 @@
 - 🌱 I’m currently Studying Bsc in Information and Communication Technology at University of Vavuniya
 - 📫 You can reach me on _naveenm2795@gmail.com_
 - 😄 Pronouns: He/Him
-  ***
 - ![](https://komarev.com/ghpvc/?username=Naveen-nm27&label=PROFILE+VIEWS)
 ***
 ## Languages 
-***
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
