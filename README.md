@@ -9,7 +9,7 @@
 - 📫 You can reach me on _naveenm2795@gmail.com_
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favorite Movie of all time is **Intesteller**
-![](https://komarev.com/ghpvc/?username=Naveen-nm27&label=PROFILE+VIEWS)
+- ![](https://komarev.com/ghpvc/?username=Naveen-nm27&label=PROFILE+VIEWS)
 ***
 ## Languages 
 ***
