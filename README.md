@@ -18,7 +18,11 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ***
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naveen-nm27)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naveen-nm27&theme=gotham" height="180em" />&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naveen-nm27&theme=gotham" height="180em" />
+</div>
 
 <!---
 Naveen-nm27/Naveen-nm27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
