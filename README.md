@@ -2,8 +2,6 @@
 👋 Hi, I Like understanding how things works,
 and how they connect to create somthing AWSOME...
 
-<img width="75%" height="50%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRqa2VwdDdxODk1aDAxbDI0NDhvdTVhYm1vbGJsd2Uyb2wzaml5cyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/26uf9VqJRfl1incEo/giphy.gif">
-
 - 👀 I’m most interested in
   - :paintbrush: Graphics Design
   - :asterisk: Cyber Security
