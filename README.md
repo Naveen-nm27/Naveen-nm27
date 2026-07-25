@@ -13,7 +13,6 @@
   - and many more 😊
 - 🌱 I’m currently Studying Bsc in Information and Communication Technology at University of Vavuniya
 - 📫 You can reach me on _naveenm2795@gmail.com_
-- 
 ***
 ## Languages 
 
