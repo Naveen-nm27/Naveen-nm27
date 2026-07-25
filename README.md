@@ -1,8 +1,8 @@
 ## About Me
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=////&fontSize=60&animation=fadeIn" width="100%">
-👋 Hi, I Like understanding how things works,
-and how they connect to create somthing AWSOME...
+
+👋 Hi, I like understanding how things work, and how they connect to create something <b>AWESOME</b> ///
 
 - 👀 I’m most interested in
   - :paintbrush: Graphics Design
@@ -13,6 +13,7 @@ and how they connect to create somthing AWSOME...
   - and many more 😊
 - 🌱 I’m currently Studying Bsc in Information and Communication Technology at University of Vavuniya
 - 📫 You can reach me on _naveenm2795@gmail.com_
+- 
 ***
 ## Languages 
 
