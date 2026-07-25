@@ -1,4 +1,6 @@
 ## About Me
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=////&fontSize=60&animation=fadeIn" width="100%">
 👋 Hi, I Like understanding how things works,
 and how they connect to create somthing AWSOME...
 
@@ -36,6 +38,19 @@ and how they connect to create somthing AWSOME...
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naveen-nm27&theme=gotham" height="180em" />&nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naveen-nm27&theme=gotham" height="180em" />
 </div>
+
+***
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen-nm27&theme=gruvbox">
+</p>
+
+***
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=36BCF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+connect+%F0%9F%91%8B" alt="Typing SVG">
+</p>
+
 
 <!---
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
