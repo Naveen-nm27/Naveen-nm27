@@ -7,7 +7,7 @@
 - 👀 I’m most interested in
   - :paintbrush: Graphics Design
   - :asterisk: Cyber Security
-  - :atom: Physics
+  - ⚛️: Physics
   - 🎮 Game Development
   - 🟥 Graphis/UX/UI/Design
   - and many more 😊
