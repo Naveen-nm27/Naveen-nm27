@@ -41,12 +41,6 @@
 
 ***
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen-nm27&theme=gruvbox">
-</p>
-
-***
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1500&color=36BCF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+connect+%F0%9F%91%8B" alt="Typing SVG">
 </p>
